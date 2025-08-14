@@ -1,1 +1,5 @@
-#librerias
+streamlit
+pandas
+numpy
+plotly
+
