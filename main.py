@@ -12,7 +12,7 @@ st.title("🤖 Agente LLaMA3-8B con LangChain y Groq API")
 # ----------------------------
 # Obtener API key desde secrets
 # ----------------------------
-groq_api_key = st.secrets["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"]
+groq_api_key = st.secrets["GROQ_API_KEY"]
 
 # ----------------------------
 # Inicializar LLM
